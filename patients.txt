@@ -1,0 +1,17 @@
+Pat/1,Kamance,kk@gmail.com,89,VC2,CZ
+Pat/2,tampoline,tm@gmail.com,120,VC1,EC
+Pat/3,cherry,cherry@gmail.com,90,VC1,DM
+Pat/4,dan,dan@gmail.com,15,VC1,DM
+Pat/5,kerl,kerl@gmail.com,77,VC2,AF
+Pat/6,purity,purity@gmail.com,45,VC1,EC
+Pat/7,faith,faith@gmail.com,34,VC2,AF
+Pat/8,david,davy@gmail.com,23,VC2,BV
+Pat/9,gilly,gill@gmail.com,99,VC1,DM
+Pat/10,susan,suzy@gmail.com,56,VC1,EC
+Pat/11,maria,maria@gmail.com,109,VC2,AF
+Pat/12,ochard,och@gmail.com,89,VC2,CZ
+Pat/13,lydon,lyndon@gmail.com,23,VC1,DM
+Pat/14,steve,steve@gmail.com,56,VC2,AF
+Pat/15,golliath,goliath@gmail.com,44,VC2,BV
+Pat/16,sk,sk@gmail.com,125,VC1,EC
+Pat/17,ruth,ruth@gmail.com,81,VC1,AF
